@@ -1,5 +1,11 @@
-### install
+### install dependencies
 ## npm install
+
+### Repo github
+https://github.com/carlosaw/Desafio-Finance-NextJS
+
+### Land Page
+https://desafio-venda-veiculo-html-next-js.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
