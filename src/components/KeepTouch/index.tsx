@@ -15,7 +15,7 @@ export const KeepTouch = () => {
     >
       <div className="flex flex-col items-center sm:items-start mb-8 pl-5 md:pl-5 lg:pl-5 xl:pl-0 pr-5 md:pr-5 lg:pr-5 xl:pr-0">
         <Image
-          src="/assets/Logo2.png"
+          src="/assets/Logo1.png"
           alt="Logo B7Car"
           width={200}
           height={130}
