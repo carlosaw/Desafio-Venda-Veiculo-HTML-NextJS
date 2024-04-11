@@ -1,6 +1,9 @@
 ### install dependencies
 ## npm install
 
+### Run projetct
+## npm run dev
+
 ### Repo github
 https://github.com/carlosaw/Desafio-Finance-NextJS
 
